@@ -1,1 +1,2 @@
-# azm-os
+# AZM OS
+Engineering Operating System.
